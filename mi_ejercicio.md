@@ -1,4 +1,12 @@
 # 0. Crear un Indice con los contenidos
+---
+## Index
+1. [Introducción](#Introducción)
+2. [Comparativa de Modelos](#Comparativa-de-Modelos)
+3. [Ejemplo de Código](#Ejemplo-de-Código-en-Python)
+4. [Entrenar un Modelo](#Pasos-para-Entrenar-un-Modelo)
+5. [Recursos Adicionales](#Recursos-Adicionales)
+---
 ## **1. Introducción**
 La **Inteligencia Artificial (IA)** se refiere a la simulación de la inteligencia humana en máquinas. Hoy en
 día, el uso de Modelos de Lenguaje Grande (LLMs) permite interactuar en lenguaje natural y generar código
